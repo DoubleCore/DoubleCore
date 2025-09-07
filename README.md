@@ -20,8 +20,11 @@ I'm a passionate developer, always learning and creating new things.
 <br/>
 
 <p align="left">
-  <a href="https://leetcode.com/DoubleCore/">
-    <img src="https://img.shields.io/badge/dynamic/json?label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2FDoubleCore&color=yellowgreen&logo=leetcode" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/DoubleCore/" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/dynamic/json?label=LeetCode(US)&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2FDoubleCore&color=yellowgreen&logo=leetcode" alt="LeetCode US Stats" />
+  </a>
+  <a href="https://leetcode.cn/u/轻踏/">
+    <img src="https://img.shields.io/badge/dynamic/json?label=LeetCode(CN)&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fcn%2F轻踏&color=orange&logo=leetcode" alt="LeetCode CN Stats" />
   </a>
 </p>
 
