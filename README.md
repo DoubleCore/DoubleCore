@@ -19,6 +19,14 @@ I'm a passionate developer, always learning and creating new things.
 
 <br/>
 
+<p align="left">
+  <a href="https://leetcode.com/DoubleCore/">
+    <img src="https://img.shields.io/badge/dynamic/json?label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2FDoubleCore&color=yellowgreen&logo=leetcode" alt="LeetCode Stats" />
+  </a>
+</p>
+
+<br/>
+
 ## 📈 My GitHub Activity
 
 <p align="center">
