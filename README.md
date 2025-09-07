@@ -9,19 +9,6 @@ I'm a passionate developer, always learning and creating new things.
 
 <br/>
 
-## 📊 My GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DoubleCore&show_icons=true&theme=radical&rank_icon=github" alt="DoubleCore's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoubleCore&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=DoubleCore&theme=radical" alt="GitHub Streak" />
-</p>
-
-<br/>
-
 ## 🛠️ My Tech Stack
 
 <p align="left">
