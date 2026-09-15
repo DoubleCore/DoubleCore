@@ -91,7 +91,7 @@ Full-stack Product Engineering
   &nbsp;·&nbsp;
   <a href="https://github.com/DoubleCore?tab=overview&from=2026-01-01&to=2026-12-31"><b>Contributions</b></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/DoubleCore?tab=stars"><b>Stars</b></a>
+  <a href="https://github.com/DoubleCore?tab=stars"><b>Starred Repos</b></a>
 </p>
 
 <p align="center">
