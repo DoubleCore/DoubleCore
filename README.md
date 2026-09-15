@@ -22,23 +22,56 @@ I am training to become a **Professional AI Player** — using AI to enter new d
 
 ## Featured Work
 
-<p align="center">
-  <a href="https://github.com/DoubleCore/semiconductor-kg">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DoubleCore&repo=semiconductor-kg&hide_border=true&theme=transparent" />
-  </a>
-  <a href="https://github.com/DoubleCore/AICareerTutor">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DoubleCore&repo=AICareerTutor&hide_border=true&theme=transparent" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://github.com/DoubleCore/warmth-connect-portal">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DoubleCore&repo=warmth-connect-portal&hide_border=true&theme=transparent" />
-  </a>
-  <a href="https://github.com/DoubleCore/HakethonNvidia01">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DoubleCore&repo=HakethonNvidia01&hide_border=true&theme=transparent" />
-  </a>
-</p>
+### [Semiconductor Knowledge Graph](https://github.com/DoubleCore/semiconductor-kg)
+
+**AI × Industry Intelligence × Knowledge Graph**
+
+Building a structured semiconductor industry research system with FastAPI and React.
+
+`Original Project` `Python` `FastAPI` `React`
+
+</td>
+<td width="50%" valign="top">
+
+### [AI Career Tutor](https://github.com/DoubleCore/AICareerTutor)
+
+**AI × Career Development × Product Engineering**
+
+Exploring an AI-native career coaching product from mobile experience to backend services.
+
+`Original Project` `AI Product` `FastAPI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Warmth Connect Portal](https://github.com/DoubleCore/warmth-connect-portal)
+
+**Full-stack Product Engineering**
+
+Turning product requirements into a working frontend/backend delivery loop.
+
+`Product` `Engineering` `Full Stack`
+
+</td>
+<td width="50%" valign="top">
+
+### [NVIDIA Hackathon](https://github.com/DoubleCore/HakethonNvidia01)
+
+**Hackathon × Rapid Prototyping**
+
+Practicing fast problem framing, AI-assisted building, validation, and iteration under constraints.
+
+`Hackathon` `Prototype` `AI`
+
+</td>
+</tr>
+</table>
 
 ## Current Focus
 
@@ -53,13 +86,19 @@ I am training to become a **Professional AI Player** — using AI to enter new d
 ## Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DoubleCore&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=DoubleCore&hide_border=true&theme=transparent" />
+  <a href="https://github.com/DoubleCore?tab=repositories"><b>Repositories</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/DoubleCore?tab=overview&from=2026-01-01&to=2026-12-31"><b>Contributions</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/DoubleCore?tab=stars"><b>Stars</b></a>
 </p>
 
 <p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=DoubleCore&theme=github-compact&hide_border=true&area=true" />
+  Building in public through research, projects, experiments, and competitions.<br/>
+  <sub>GitHub's native contribution graph is available directly below this profile README.</sub>
 </p>
+
+---
 
 <div align="center">
 
