@@ -22,52 +22,53 @@ I am training to become a **Professional AI Player** — using AI to enter new d
 
 ## Featured Work
 
+### Hackathon Timeline
+
+<!-- HACKATHON-TIMELINE:START -->
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### [Semiconductor Knowledge Graph](https://github.com/DoubleCore/semiconductor-kg)
-
-**AI × Industry Intelligence × Knowledge Graph**
-
-Building a structured semiconductor industry research system with FastAPI and React.
-
-`Original Project` `Python` `FastAPI` `React`
-
+<td width="100" align="center" valign="top">
+<strong>2026</strong><br/><br/>
+●<br/>
+│
 </td>
-<td width="50%" valign="top">
-
-### [AI Career Tutor](https://github.com/DoubleCore/AICareerTutor)
-
-**AI × Career Development × Product Engineering**
-
-Exploring an AI-native career coaching product from mobile experience to backend services.
-
-`Original Project` `AI Product` `FastAPI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Warmth Connect Portal](https://github.com/DoubleCore/warmth-connect-portal)
-
-**Full-stack Product Engineering**
-
-Turning product requirements into a working frontend/backend delivery loop.
-
-`Product` `Engineering` `Full Stack`
-
-</td>
-<td width="50%" valign="top">
+<td valign="top">
 
 ### [NVIDIA Hackathon](https://github.com/DoubleCore/HakethonNvidia01)
 
-**Hackathon × Rapid Prototyping**
+**AI × Rapid Prototyping × Competition Engineering**
 
-Practicing fast problem framing, AI-assisted building, validation, and iteration under constraints.
+Practicing fast problem framing, AI-assisted building, validation, and iteration under real competition constraints.
 
-`Hackathon` `Prototype` `AI`
+`Hackathon` `AI` `Prototype` `Engineering`
+
+</td>
+</tr>
+</table>
+<!-- HACKATHON-TIMELINE:END -->
+
+<p align="center"><sub>More hackathons will be added as the journey continues.</sub></p>
+
+### Selected Builds
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**[Semiconductor KG](https://github.com/DoubleCore/semiconductor-kg)**  
+AI × Industry Intelligence × Knowledge Graph
+
+</td>
+<td width="33%" valign="top">
+
+**[AI Career Tutor](https://github.com/DoubleCore/AICareerTutor)**  
+AI × Career Development × Product Engineering
+
+</td>
+<td width="33%" valign="top">
+
+**[Warmth Connect](https://github.com/DoubleCore/warmth-connect-portal)**  
+Full-stack Product Engineering
 
 </td>
 </tr>
