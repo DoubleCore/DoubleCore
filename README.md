@@ -11,7 +11,6 @@
 ![AI](https://img.shields.io/badge/AI-Research%20%26%20Engineering-111827?style=for-the-badge)
 ![Builder](https://img.shields.io/badge/BUILD-Real%20Products-111827?style=for-the-badge)
 ![Hackathon](https://img.shields.io/badge/ARENA-Hackathons-111827?style=for-the-badge)
-<a href="https://github.com/DoubleCore?tab=repositories"><img src="https://img.shields.io/github/stars/DoubleCore?affiliations=OWNER&style=for-the-badge&label=TOTAL%20STARS&color=111827" alt="Total GitHub Stars" /></a>
 
 </div>
 
@@ -31,17 +30,40 @@ I am training to become a **Professional AI Player** — using AI to enter new d
 <td width="100" align="center" valign="top">
 <strong>2026</strong><br/><br/>
 ●<br/>
-│
+│<br/>
+●<br/>
+│<br/>
+●
 </td>
 <td valign="top">
 
+### [Cheetah Youth Program](https://github.com/DoubleCore/Liebao-Pie-Hackathon)
+
+**Real-world Product Engineering · AI Research Command Center**
+
+A full-stack product developed through the Cheetah Youth Program and later evolved into a research workflow platform integrating papers, RAG search, AI agents, and compute operations.
+
+`Program Project` `Full-stack` `AI Agents`
+
+<br/>
+
 ### [NVIDIA Hackathon](https://github.com/DoubleCore/HakethonNvidia01)
 
-**AI × Rapid Prototyping × Competition Engineering**
+**NemoClaw Safety Guardrail · AI Safety Gateway · DGX Spark**
 
-Practicing fast problem framing, AI-assisted building, validation, and iteration under real competition constraints.
+A working prototype for screening user input before it reaches the main language model, with local safety classification, guarded generation, and a Feishu bridge.
 
-`Hackathon` `AI` `Prototype` `Engineering`
+`Hackathon` `AI Safety` `NVIDIA`
+
+<br/>
+
+### [Zhaopin AI Hackathon](https://github.com/DoubleCore/AICareerTutor)
+
+**AI Career Guidance · Interview Analysis · Action Planning**
+
+A mobile and API prototype exploring how AI can turn career uncertainty into structured analysis and actionable next steps under hackathon constraints.
+
+`Hackathon` `Career AI` `Expo + FastAPI`
 
 </td>
 </tr>
@@ -106,4 +128,9 @@ Full-stack Product Engineering
 
 ### Learn across disciplines. Build with AI. Compete through practice.
 
+</div>
+
+
+<div align="center">
+  <sub>⭐ <img src="https://img.shields.io/github/stars/DoubleCore?affiliations=OWNER&style=flat-square&label=&color=gray" alt="Total project stars" /></sub>
 </div>
