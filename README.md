@@ -106,6 +106,8 @@ A mobile and API prototype exploring how AI can turn career uncertainty into str
 </div>
 
 
+<!-- STAR-MAGNITUDE:START -->
 <div align="center">
-  <sub>⭐ <img src="https://img.shields.io/github/stars/DoubleCore?affiliations=OWNER&style=flat-square&label=&color=gray" alt="Total project stars" /></sub>
+  <sub>★</sub>
 </div>
+<!-- STAR-MAGNITUDE:END -->
