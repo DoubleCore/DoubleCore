@@ -59,6 +59,12 @@ I am training to become a **Professional AI Player** — using AI to enter new d
 <td><a href="https://github.com/DoubleCore/WanderInk">WanderInk</a></td>
 <td><strong>Excellent Award</strong> · Multimodal AI · Audio comic</td>
 </tr>
+<tr>
+<td><strong>2026.08</strong></td>
+<td><strong>Shenzhou Digital Hackathon</strong><br/>神州数码黑客松</td>
+<td><a href="https://github.com/DoubleCore/Insight-Hackathon">Semiconductor Knowledge Graph</a></td>
+<td>Industry intelligence · Evidence-grounded QA</td>
+</tr>
 </tbody>
 </table>
 <!-- HACKATHON-TIMELINE:END -->
