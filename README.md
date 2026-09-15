@@ -11,6 +11,7 @@
 ![AI](https://img.shields.io/badge/AI-Research%20%26%20Engineering-111827?style=for-the-badge)
 ![Builder](https://img.shields.io/badge/BUILD-Real%20Products-111827?style=for-the-badge)
 ![Hackathon](https://img.shields.io/badge/ARENA-Hackathons-111827?style=for-the-badge)
+<a href="https://github.com/DoubleCore?tab=repositories"><img src="https://img.shields.io/github/stars/DoubleCore?affiliations=OWNER&style=for-the-badge&label=TOTAL%20STARS&color=111827" alt="Total GitHub Stars" /></a>
 
 </div>
 
