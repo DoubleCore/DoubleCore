@@ -26,51 +26,38 @@ I am training to become a **Professional AI Player** — using AI to enter new d
 
 <!-- HACKATHON-TIMELINE:START -->
 <table>
+<thead>
 <tr>
-<td width="100" align="center" valign="top">
-<strong>2026</strong><br/><br/>
-●<br/>
-│<br/>
-●<br/>
-│<br/>
-●
-</td>
-<td valign="top">
-
-### [Cheetah Youth Program](https://github.com/DoubleCore/Liebao-Pie-Hackathon)
-
-**Real-world Product Engineering · AI Research Command Center**
-
-A full-stack product developed through the Cheetah Youth Program and later evolved into a research workflow platform integrating papers, RAG search, AI agents, and compute operations.
-
-`Program Project` `Full-stack` `AI Agents`
-
-<br/>
-
-### [NVIDIA Hackathon](https://github.com/DoubleCore/HakethonNvidia01)
-
-**NemoClaw Safety Guardrail · AI Safety Gateway · DGX Spark**
-
-A working prototype for screening user input before it reaches the main language model, with local safety classification, guarded generation, and a Feishu bridge.
-
-`Hackathon` `AI Safety` `NVIDIA`
-
-<br/>
-
-### [Zhaopin AI Hackathon](https://github.com/DoubleCore/AICareerTutor)
-
-**AI Career Guidance · Interview Analysis · Action Planning**
-
-A mobile and API prototype exploring how AI can turn career uncertainty into structured analysis and actionable next steps under hackathon constraints.
-
-`Hackathon` `Career AI` `Expo + FastAPI`
-
-</td>
+<th>Period</th>
+<th>Competition / Program</th>
+<th>Project</th>
+<th>Focus</th>
 </tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>2026.04</strong></td>
+<td><strong>NVIDIA Hackathon</strong></td>
+<td><a href="https://github.com/DoubleCore/HakethonNvidia01">NemoClaw Safety Guardrail</a></td>
+<td>AI safety gateway · DGX Spark</td>
+</tr>
+<tr>
+<td><strong>2026.05</strong></td>
+<td><strong>Cheetah Youth Program</strong></td>
+<td><a href="https://github.com/DoubleCore/Liebao-Pie-Hackathon">Hermes AI Research Command Center</a></td>
+<td>Full-stack AI research tooling</td>
+</tr>
+<tr>
+<td><strong>2026.06</strong></td>
+<td><strong>Zhaopin AI Hackathon</strong></td>
+<td><a href="https://github.com/DoubleCore/AICareerTutor">AI Career Tutor</a></td>
+<td>Career AI · Mobile + API</td>
+</tr>
+</tbody>
 </table>
 <!-- HACKATHON-TIMELINE:END -->
 
-<p align="center"><sub>More hackathons will be added as the journey continues.</sub></p>
+<p align="center"><sub>Ordered by repository creation month; add new entries chronologically.</sub></p>
 
 ## Current Focus
 
