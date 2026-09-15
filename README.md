@@ -31,7 +31,7 @@ I am training to become a **Professional AI Player** — using AI to enter new d
 <th>Period</th>
 <th>Competition / Program</th>
 <th>Project</th>
-<th>Focus</th>
+<th>Result / Focus</th>
 </tr>
 </thead>
 <tbody>
@@ -53,11 +53,17 @@ I am training to become a **Professional AI Player** — using AI to enter new d
 <td><a href="https://github.com/DoubleCore/AICareerTutor">AI Career Tutor</a></td>
 <td>Career AI · Mobile + API</td>
 </tr>
+<tr>
+<td><strong>2026.08</strong></td>
+<td><strong>2nd NVIDIA DGX Spark Hackathon</strong></td>
+<td><a href="https://github.com/DoubleCore/WanderInk">WanderInk</a></td>
+<td><strong>Excellent Award</strong> · Multimodal AI · Audio comic</td>
+</tr>
 </tbody>
 </table>
 <!-- HACKATHON-TIMELINE:END -->
 
-<p align="center"><sub>Ordered by repository creation month; add new entries chronologically.</sub></p>
+<p align="center"><sub>Ordered chronologically; each project link contains its competition details.</sub></p>
 
 ## Current Focus
 
