@@ -72,31 +72,6 @@ A mobile and API prototype exploring how AI can turn career uncertainty into str
 
 <p align="center"><sub>More hackathons will be added as the journey continues.</sub></p>
 
-### Selected Builds
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**[Semiconductor KG](https://github.com/DoubleCore/semiconductor-kg)**  
-AI × Industry Intelligence × Knowledge Graph
-
-</td>
-<td width="33%" valign="top">
-
-**[AI Career Tutor](https://github.com/DoubleCore/AICareerTutor)**  
-AI × Career Development × Product Engineering
-
-</td>
-<td width="33%" valign="top">
-
-**[Warmth Connect](https://github.com/DoubleCore/warmth-connect-portal)**  
-Full-stack Product Engineering
-
-</td>
-</tr>
-</table>
-
 ## Current Focus
 
 **AI Research** · **AI Agents** · **Computer Vision** · **Knowledge Graphs** · **Cross-disciplinary Engineering** · **Hackathons**
